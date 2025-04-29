@@ -12,3 +12,8 @@ module.exports = {
     }
   }
 }
+
+module.exports = {
+  publicPath: '/Vida-Saludable/'
+}
+
