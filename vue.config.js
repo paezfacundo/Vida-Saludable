@@ -14,6 +14,6 @@ module.exports = {
 }
 
 module.exports = {
-  publicPath: '/Vida-Saludable/'
+  publicPath: '/parcial-2/'
 }
 
